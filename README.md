@@ -9,20 +9,20 @@ A Mechanical engineer from Bangalore who builds websites and edit videos in my f
 I'm always interested in any opportunities to help someone.
 
 ### I Commonly Work With -
-Markup: *HTML
+HTML
 
-        *CSS
+        CSS
 
-        *JavaScript
+        JavaScript
 
-        *AWS SERVICES -
+        AWS SERVICES -
           *AWS S3 
           *AWS CloudFront 
           *AWS Lex & Polly (Alexa)
 
-        *Git & Github
+        Git & Github
 
-        *Netlify (Works well with github to instant deploy)
+        Netlify (Works well with github to instant deploy)
 
 
 
