@@ -11,18 +11,18 @@ I'm always interested in any opportunities to help someone.
 ### I Commonly Work With -
 HTML
 
-        CSS
+CSS
 
-        JavaScript
+JavaScript
 
-        AWS SERVICES -
-          *AWS S3 
-          *AWS CloudFront 
-          *AWS Lex & Polly (Alexa)
+AWS SERVICES -
+*AWS S3 
+*AWS CloudFront 
+*AWS Lex & Polly (Alexa)
 
-        Git & Github
+Git & Github
 
-        Netlify (Works well with github to instant deploy)
+Netlify (Works well with github to instant deploy)
 
 
 
