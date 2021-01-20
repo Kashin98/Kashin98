@@ -15,10 +15,7 @@ CSS
 
 JavaScript
 
-AWS SERVICES -
-*AWS S3 
-*AWS CloudFront 
-*AWS Lex & Polly (Alexa)
+AWS SERVICES - AWS S3, CloudFront,Lex & Polly (Alexa)
 
 Git & Github
 
@@ -29,8 +26,8 @@ Netlify (Works well with github to instant deploy)
 
 ### Other Stuff I Do -
 
-*Adobe Premiere Pro (Video Editing)
+Adobe Premiere Pro (Video Editing)
 
-*Adobe Photoshop (Mainly for my videos)
+Adobe Photoshop (Mainly for my videos)
 
-*Adobe Audition (Soundtrack Editing)
+Adobe Audition (Soundtrack Editing)
