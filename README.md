@@ -4,7 +4,7 @@
 **Kashin98/Kashin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### I Am -
-A Mechanical engineer from Bangalore who builds websites in his free time. Edit videos in my free time.
+A Mechanical engineer from Bangalore who builds websites and edit videos in my free time.
 
 I'm always interested in any opportunities to help someone.
 
