@@ -17,9 +17,11 @@ JavaScript
 
 AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
+Git & Github
+
 Netlify (Works well with github to instant deploy)
 
-Github
+
 
 
 ## Other Stuff I Do -
