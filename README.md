@@ -9,7 +9,9 @@ I'm always interested in any opportunities to help someone.
 
 ## I Commonly Work With -
 HTML
+
 CSS
+
 JavaScript
 Netlify
 Github
