@@ -1,7 +1,7 @@
 ### Hi, I'm Karan Kumar 👋
 
 <!--
-**Kashin98/Kashin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kashin98/Kashin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## I Am -
 A Mechanical engineer from Bangalore who builds websites in his free time. Edit videos in my free time.
