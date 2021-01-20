@@ -15,7 +15,7 @@ CSS
 
 JavaScript
 
-AWS SERVICES - AWS S3, CloudFront,Lex & Polly (Alexa)
+AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
 Git & Github
 
