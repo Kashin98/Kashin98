@@ -1,14 +1,14 @@
-### Hi, I'm Karan Kumar 👋
+## Hi, I'm Karan Kumar 👋
 
 <!--
 **Kashin98/Kashin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## I Am -
+### I Am -
 A Mechanical engineer from Bangalore who builds websites in his free time. Edit videos in my free time.
 
 I'm always interested in any opportunities to help someone.
 
-## I Commonly Work With -
+### I Commonly Work With -
 HTML
 
 CSS
@@ -24,7 +24,7 @@ Netlify (Works well with github to instant deploy)
 
 
 
-## Other Stuff I Do -
+### Other Stuff I Do -
 
 Adobe Premiere Pro (Video Editing)
 
