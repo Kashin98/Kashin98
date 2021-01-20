@@ -5,6 +5,7 @@
 
 ## I Am -
 A Mechanical engineer from Bangalore who builds websites in his free time. Edit videos in my free time.
+
 I'm always interested in any opportunities to help someone.
 
 ## I Commonly Work With -
@@ -13,11 +14,18 @@ HTML
 CSS
 
 JavaScript
-Netlify
-Github
+
 AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
+Netlify (Works well with github to instant deploy)
+
+Github
+
+
 ## Other Stuff I Do -
+
 Adobe Premiere Pro (Video Editing)
+
 Adobe Photoshop (Mainly for my videos)
+
 Adobe Audition (Soundtrack Editing)
