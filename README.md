@@ -8,24 +8,14 @@ A Mechanical engineer from Bangalore who builds websites and edits videos in my 
 
 I'm always interested in any opportunities to help someone.
 
+
 ### I Commonly Work With -
-HTML
-
-CSS
-
-JavaScript
+HTML, CSS, JavaScript
 
 AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
-Git & Github
-
-Netlify (Works well with github to instant deploy)
-
-
-
 
 ### Other Stuff I Do -
-
 Adobe Premiere Pro (Video Editing)
 
 Adobe Photoshop (Mainly for my videos)
