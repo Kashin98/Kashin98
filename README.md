@@ -10,7 +10,7 @@ I'm always interested in any opportunities to help someone.
 
 
 ### I Commonly Work With -
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, React Js(Basic)
 
 AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
