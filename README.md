@@ -5,7 +5,6 @@
 
 ### I Am -
 A Mechanical engineer from Bangalore who builds websites and edits videos in my free time. Currently learning for a fullstack developer role.
-
 I'm always interested in any opportunities to help someone.
 
 
