@@ -9,7 +9,7 @@ I'm always interested in any opportunities to help someone.
 
 
 ### I Commonly Work With -
-HTML, CSS (Bootstrap 4), JavaScript (React.Js), Java
+Java, JavaScript (React.Js), CSS (Bootstrap 4), HTML
 
 AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
