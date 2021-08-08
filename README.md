@@ -16,6 +16,6 @@ AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 ### Other Stuff I Do -
 Adobe Premiere Pro (Video Editing)
 
-Adobe Photoshop (Mainly for my videos)
+Adobe Photoshop (Photo Editing)
 
 Adobe Audition (Soundtrack Editing)
