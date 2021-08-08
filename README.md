@@ -8,7 +8,7 @@ A Mechanical engineering graduate who builds websites and edits videos in my fre
 
 
 ### I Commonly Work With -
-Java, JavaScript (React.Js), CSS (Bootstrap 4), HTML
+LANGUAGES - Java, JavaScript (React.Js), CSS (Bootstrap 4), HTML
 
 AWS SERVICES - AWS S3, CloudFront, Lex & Polly (Alexa)
 
