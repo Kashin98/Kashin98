@@ -10,9 +10,3 @@ A Mechanical engineering graduate who builds websites and edits videos in my fre
 ### I Commonly Work With -
 Java 8 (Spring), MongoDB, MySQL, Angular 2+, AngularJS, RabbitMQ, Kettle (Hitachi Pentaho), TypeScript, JavaScript.
 
-### Other Stuff I Do -
-Adobe Premiere Pro (Video Editing)
-
-Adobe Photoshop (Photo Editing)
-
-Adobe Audition (Soundtrack Editing)
