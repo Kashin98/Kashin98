@@ -4,7 +4,7 @@
 **Kashin98/Kashin98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### I Am -
-A Mechanical engineering graduate who builds websites and edits videos in my free time. I currently work as a SDE-1.
+A Mechanical engineering graduate who builds websites and edits videos in my free time. I currently work as a SDE-2.
 
 
 ### I Commonly Work With -
